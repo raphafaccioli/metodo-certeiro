@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependências (caso um dia entrem ferramentas de build)
+node_modules/
+
+# Arquivos temporários / editores
+*.log
+*.tmp
+*.swp
+.vscode/
+
+# Produto pago — nunca deve ir para o repositório da landing page
+entregaveel/
+
+# Fotos originais duplicadas (o site usa a pasta fotos/)
+Depoimentos/
